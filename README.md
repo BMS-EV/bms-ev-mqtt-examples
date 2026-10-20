@@ -216,5 +216,3 @@ that prints decoded values, with reconnect handling.
 - [bms-ev-home-assistant](https://github.com/BMS-EV/bms-ev-home-assistant) — native auto-discovery, 25 entities
 - [bms-ev-docs](https://github.com/BMS-EV/bms-ev-docs) — compatibility dataset: 70 battery profiles × 56 inverters
 - [docs.bms-ev.com](https://docs.bms-ev.com/) — full technical documentation
-
-Built on [dalathegreat/Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator).
